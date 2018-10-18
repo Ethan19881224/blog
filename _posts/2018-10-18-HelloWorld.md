@@ -1,19 +1,10 @@
 ---
 layout: post
-#标题配置
-title:  初识Jekyll
-#时间配置
-date:   2018-10-08 10:44:00 +0800
-#大类配置
-categories: tmp
-#小类配置
-tags: ambari kerberos 
-#固定链接
-permalink: /mypageurl/
+title:  "Welcome to Jekyll!"
 ---
 
-* content
-{:toc}
+# Welcome
 
+**Hello world**, this is my first Jekyll blog post.
 
-Hello world!
+I hope you like it!
