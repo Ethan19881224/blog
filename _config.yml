@@ -1,3 +1,3 @@
-theme: jekyll-theme-hacker
+site: github.com/Ethan19881224/blog
 
 exclude: ['README.md']
