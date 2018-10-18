@@ -1,3 +1,6 @@
+name: Ethan
+baseurl: /blog
 github: https://github.com/Ethan19881224
+meta_description: 求知若渴 虚心若谷
 
 exclude: ['README.md']
