@@ -1,6 +1,6 @@
 name: Ethan的博客
 baseurl: /blog
 github: https://github.com/Ethan19881224
-meta_description: 求知若渴 虚心若谷
+meta_description: For coding, I'm serious :)
 
 exclude: ['README.md']
